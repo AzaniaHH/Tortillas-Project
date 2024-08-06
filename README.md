@@ -3,7 +3,7 @@ The analysis will be on tortilla prices across Mexican states comparing mom and 
 
 Analysis will be on:
 
--Pricing trends around holidays/non-holidays
--Inflation
--Any spikes around COVID-19 timeframe?
--Cost of tortillas in certain cities/states
+- Pricing trends around holidays/non-holidays
+- Inflation
+- Any spikes around COVID-19 timeframe?
+- Cost of tortillas in certain cities/states

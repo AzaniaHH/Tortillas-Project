@@ -7,7 +7,7 @@ Tortillas are a cornerstone of Mexico's culinary heritage and play a central rol
 ## Table of Contents 
 
 - [Approach](#Approach)
-- [Data_Source] (#Data Source)
+- [Data Source] (#Data Source)
 - [Contributors](#Contributors)
 ## Approach:
 
@@ -20,8 +20,12 @@ The primary data source for this project will be the dataset on tortilla prices 
 ## Contributors
 
 **Ashley Charles**
+
 **Azania Hood-Hosten**
+
 **Leah Mathena**
+
 **Sarah Sherry**
+
 **Vanessa Ivarra**
 

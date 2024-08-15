@@ -30,3 +30,10 @@ The primary data source for this project will be the dataset on tortilla prices 
 
 **Vanessa Ivarra**
 
+
+Contributors:
+Ashley Charles
+Azania Hood-Hosten
+Leah Mathena
+Sarah Sherry
+Vanessa Ivarra

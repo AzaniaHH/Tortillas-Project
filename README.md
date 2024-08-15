@@ -18,6 +18,20 @@ The approach will be to analyze a dataset on tortilla prices across various stat
 
 The primary data source for this project will be the dataset on tortilla prices available on Kaggle. You can access it at https://www.kaggle.com/datasets/richave/tortilla-prices-in-mexico. This dataset provides comprehensive information required for our analysis, including pricing data across various states and store types. We will utilize this data to perform various analytical methods to derive meaningful insights.
 
+## Presentation Visuals
+
+### Map of Mexico's States
+
+![Map of Mexico's States](images/mexico-states-map.png)
+
+*Map of Mexico's states. Image sourced from [World Atlas](https://www.worldatlas.com/r/w960-q80/upload/33/d4/c0/states-of-mexico-map.png).*
+
+
+## Conclusion: 
+
+
+
+
 ## Contributors
 
 **Ashley Charles**

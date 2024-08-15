@@ -8,6 +8,8 @@ Tortillas are a cornerstone of Mexico's culinary heritage and play a central rol
 
 - [Approach](#approach)
 - [Data Source](#data-source)
+- [Presentation Visuals](#presentation-visuals)
+- [Conclusion](#conclusion)
 - [Contributors](#contributors)
 
 ## Approach:

@@ -2,16 +2,17 @@
 
 ## Overview
 
-Tortillas are a cornerstone of Mexico's culinary heritage and play a central role in Mexican culture. The tortilla industry is also a vital component of Mexico's economy, involving both small-scale producers and large commercial enterprises. This analysis focuses on examining tortilla prices across various Mexican cities and states, comparing costs between Mom and Pop stores and Big Retailers.
+Tortillas are a cornerstone of Mexico's culinary heritage and play a central role in Mexican culture. The tortilla industry is also a vital component of Mexico's economy, involving both small-scale producers and large commercial enterprises. This analysis focuses on examining tortilla prices across various Mexican cities and states, comparing costs between Mom-and-Pop stores and Big Retailers.
 
-## Table of Contents 
+## Table of Contents
 
-- [Approach](#Approach)
-- [Data Source] (#Data Source)
-- [Contributors](#Contributors)
+- [Approach](#approach)
+- [Data Source](#data-source)
+- [Contributors](#contributors)
+
 ## Approach:
 
-The approach will be to analyze a dataset on tortilla prices across various states in Mexico, focusing on data from the years 2007 to 2023. The analysis will differentiate between store types, specifically Mom and Pop stores versus Big Retailers. We will filter and clean the data to ensure accuracy, then use statistical methods to compare the average prices of tortillas between different store types and states. By leveraging visualizations and statistical analysis, we aim to identify trends and correlations in tortilla pricing, examining how regional and store type variations impact the overall pricing landscape.
+The approach will be to analyze a dataset on tortilla prices across various states in Mexico, focusing on data from the years 2007 to 2023. The analysis will differentiate between store types, specifically Mom-and-Pop stores versus Big Retailers. We will filter and clean the data to ensure accuracy, then use statistical methods to compare the average prices of tortillas between different store types and states. By leveraging visualizations and statistical analysis, we aim to identify trends and correlations in tortilla pricing, examining how regional and store type variations impact the overall pricing landscape.
 
 ## Data Source:
 

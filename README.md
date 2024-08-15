@@ -30,6 +30,18 @@ The primary data source for this project will be the dataset on tortilla prices 
 ## Conclusion: 
 
 
+This project offers a comprehensive analysis of tortilla prices in Mexico, comparing prices between mom-and-pop stores and big retailers from 2007 to 2023. Key findings include:
+
+- **Price Trends**: The analysis reveals a noticeable price disparity between mom-and-pop stores and big retailers, with mom-and-pop stores generally charging higher prices. This difference became more pronounced post-COVID, with significant price fluctuations observed in 2023.
+
+- **Regional Variations**: Tortilla prices vary significantly across states. For instance, states bordering the United States, such as Coahuila and Chihuahua, exhibit higher price ranges compared to states further from the border. Coahuila shows more consistent high pricing, while Chihuahua has a broader price range, indicating greater price diversity.
+
+- **Impact of Major Events**: The introduction of the United States-Mexico-Canada Agreement (USMCA) and post-COVID inflation have influenced tortilla pricing trends, contributing to the observed price increases and fluctuations.
+
+- **Insights and Implications**: Understanding these pricing dynamics is crucial for consumers, retailers, and policymakers. Consumers can make more informed purchasing decisions, retailers can adjust pricing strategies, and policymakers can assess market conditions and economic factors affecting staple food prices.
+
+Overall, this analysis highlights the complexity of tortilla pricing in Mexico, revealing significant trends and variations that are essential for stakeholders to consider.
+
 
 
 ## Contributors
@@ -43,11 +55,3 @@ The primary data source for this project will be the dataset on tortilla prices 
 **Sarah Sherry**
 
 **Vanessa Ivarra**
-
-
-Contributors:
-Ashley Charles
-Azania Hood-Hosten
-Leah Mathena
-Sarah Sherry
-Vanessa Ivarra

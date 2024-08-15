@@ -7,3 +7,10 @@ Analysis will be on:
 - Inflation
 - Any spikes around COVID-19 timeframe?
 - Cost of tortillas in certain cities/states
+
+Contributors:
+Ashley Charles
+Azania Hood-Hosten
+Leah Mathena
+Sarah Sherry
+Vanessa Ivarra
